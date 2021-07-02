@@ -1,3 +1,9 @@
+/**
+ * Purpose : User inputs for firstName, lastName, phoneNumber, email, password
+ *           set the values in UserRegistration properties
+ *
+ * @return : UserRegistration object to get the property values
+ */
 package com.test;
 import java.util.Scanner;
 import java.util.regex.Pattern;
